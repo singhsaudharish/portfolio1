@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Basic Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a web developer. It serves as my online presence where visitors can learn more about me, explore my work, and get in touch.
 
